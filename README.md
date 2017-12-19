@@ -12,5 +12,5 @@ To run:
 
 That should be it...
 
-You could also view the live demo at: http://espen.sandelarsen.com/dev/games/piggy
+You could also view the live demo at: http://espen.sandelarsen.com/games/piggy
 
